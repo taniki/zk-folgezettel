@@ -1,4 +1,4 @@
-# fz + folgezettel
+# zk + folgezettel
 
 Workaround around something I needed to replace Obsidian.md with [zk](https://github.com/mickael-menu/zk) and neovim. Sorry if the code seems ugly. The purpose was mainly to get it out of my head.
 
