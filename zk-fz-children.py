@@ -19,6 +19,6 @@ notes = sorted(subprocess
 
 notes = [ n.replace('.md', '') for n in notes ]
 
-next_child = folgezettel.get_next_child(current_note, notes)
+children = folgezettel.get_children(current_note, notes)
 
-print(next_child)
+print(" ".join([ n+'.md' for n in children ]))
