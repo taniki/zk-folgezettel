@@ -1,6 +1,6 @@
 # fz + folgezettel
 
-Mainly a quick workaround around something I needed to replace Obsidian.md with neovim.
+Mainly a quick workaround around something I needed to replace Obsidian.md with [zk](https://github.com/mickael-menu/zk) and neovim.
 
 ## configuration
 
